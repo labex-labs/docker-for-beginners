@@ -34,19 +34,9 @@ Este curso foi projetado para ajudá-lo a começar com o Docker. Cobriremos os f
 |       15 | 📖  Trabalhando com Volumes Docker        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-working-with-docker-volumes-389189'>Iniciar Lab</a>           |
 |       16 | 🎯  Montagem de Volume Docker             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/docker-docker-volume-mounting-389116'>Iniciar Desafio</a>            |
 
-## Ambiente
+## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Uma abordagem rigorosa de "Aprender Fazendo" com laboratórios práticos exclusivos e sem vídeos.
-- Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
-- Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
-- Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
-
-Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
